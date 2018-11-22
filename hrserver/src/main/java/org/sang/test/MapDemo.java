@@ -42,7 +42,11 @@ public class MapDemo {
     }
 
     public void sort(){
-        System.out.printf("sort");
+        System.out.printf("sort -- 1");
+    }
+
+    public void pop(){
+        System.out.printf("pop -- 1");
     }
 
 }
